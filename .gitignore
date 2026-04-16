@@ -22,6 +22,8 @@ model/test.wav
 model/parkinson_model.pkl
 model/roc_curve.png
 
+dataset/
+
 # VS Code
 .vscode/
 
