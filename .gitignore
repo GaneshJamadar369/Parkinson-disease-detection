@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env
+
+# Data and model artifacts
+*.pkl
+*.png
+
+# Ignore temporary audio recordings
+test.wav
+model/test.wav
+
+# Ignore generated model artifacts
+model/parkinson_model.pkl
+model/roc_curve.png
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
